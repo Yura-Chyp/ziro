@@ -33,7 +33,30 @@
 }
 .inputdiv{
     background-color: white;
-    width:250px;
+    width:300px;
     display: flex;
     justify-content: space-between;
+    border-radius:10px;
+}
+.input{
+    border:none;
+    color: #272323;
+    background-color: white;
+    height:45px;
+    outline: none;
+    text-align: center;
+}
+.Search{
+    background-color: #544CAC;
+    color:white;
+    width:100px;
+    border:none;
+    cursor: pointer;
+    border-radius:10px;
+}
+.SpanLogin{
+    color: #4238AF;
+}
+.someTxt{
+    font-size:16px;
 }

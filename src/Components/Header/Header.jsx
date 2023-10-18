@@ -20,7 +20,7 @@ export default function Header() {
             <button className='Search'>Search</button>
         </div>
         <div className="SignInUp">
-            <p className='someTxt'><span>Login</span>/Sign Up</p>
+            <p className='someTxt'><span className='SpanLogin'>Login</span>/Sign Up</p>
         </div>
     </div>
   )
